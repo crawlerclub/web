@@ -2,5 +2,5 @@
 date = 2018-05-23T10:00:00Z
 title = "et"
 vanity = "https://github.com/crawlerclub/et"
-aliases = [ "et/cmd/parse" ]
+aliases = [ "et/cmd/et" ]
 +++
